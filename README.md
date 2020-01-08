@@ -1,5 +1,5 @@
 # CommonManageSystem
-Based on SpringMVC+Spring4.2.5+MyBatis3.3+MySQL\
+Based on SpringMVC+Spring4.2.5+MyBatis3.3+MySQL
 ## Java SSM商户管理系统
 开发工具：MyEclips，Eclipse，Idea均可\
 主要技术点：
